@@ -2,7 +2,7 @@
 
 Description:
 
-This is a website I created using pure HTML, that was some internal and external links. Table was created to show my education history, experience, and hobbies. Also, I have added a contact me page and a hobbies page, which were all linked to the main page that has all my Information.
+This is a website I created using pure HTML, that was some internal and external links. Table was created to show my education history, experience, and hobbies. Also, I have added a contact me page and a hobbies page, which were all linked to the main page that has all my Information. This helped me get great understanding how pure HTML works.  
 
 Links:
 1) https://saiful987.github.io/HTML-Personal-Site/
